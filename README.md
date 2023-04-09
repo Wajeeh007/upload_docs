@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description:
 
-This project is a starting point for a Flutter application.
+This project allows users to upload documents. The documents can be uploaded
+as picture from camera or gallery or as any 'pdf' document.
 
-A few resources to get you started if this is your first Flutter project:
+The project also creates thumbnail of pdf document's first page.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Packages:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1): image_picker
+2): file_picker
+3): pdfx
+4): rflutter_alert
